@@ -4,7 +4,6 @@ public/fonts/*
 public/img/*
 public/css/*
 public/js/*
-.php_cs.cache
 dump.sql
 /node_modules
 /public/hot
